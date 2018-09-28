@@ -19,7 +19,7 @@
  */
 
 
-#include "msl_rotors_joy_interface/joy.h"
+#include "rotors_joy_interface/joy.h"
 
 #include <mav_msgs/default_topics.h>
 
